@@ -1,0 +1,1 @@
+This is a project from SIS 750 where I analyzed Japanese election data compared to infrastructure investment. I found, translated, and compiled the data from Japanese government sources and put it into my custom dataset titled "WelfareOnly". 
